@@ -10,7 +10,7 @@ something similar to minecraft modpacks/lua scripts
 the main.py will be handling all loading of modules, accessing of modules and will act as the interface while being a simple cli application
 
 current available commands:
---help - shows available commands
-list - loads and display available module name, methods and file path
-sudo <module_name> <method_name> - call a specific method within a specific module
+- help > shows available commands
+- list > loads and display available module name, methods and file path
+- sudo <module_name> <method_name> > call a specific method within a specific module
 
