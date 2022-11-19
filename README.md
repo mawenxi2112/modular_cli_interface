@@ -14,4 +14,7 @@ current available commands:
 - list - loads and display available module name, methods and file path
 - sudo <module_name> <method_name> - call a specific method within a specific module
 
+planned features:
+- allow sudo to handle arguments and parameters
+
 ![example](https://github.com/mawenxi2112/modular_cli_interface/blob/main/screenshots/cli_application.png)
